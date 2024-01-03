@@ -1,0 +1,9 @@
+#chart8 {
+    margin: 0 auto;
+    position: absolute;
+    left: -18px ;
+    top: 17%;
+}
+#chart8 path{ 
+  stroke: none !important;
+}

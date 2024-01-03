@@ -1,0 +1,6 @@
+#chart6 {
+    margin: 0 auto;
+}
+#chart6 path{ 
+  stroke: none !important;
+}

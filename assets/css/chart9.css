@@ -1,0 +1,46 @@
+#chart9 {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+}
+#chart9 .apexcharts-tooltip{
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+#chart9 #SvgjsG4604{
+    display: none;
+}
+#chart9 #SvgjsCircle6072, #apexcharts-xaxistooltip-text, #apexcharts42nyacnj{
+    display: none;
+ }
+ #chart9 .apexcharts-zoomin-icon{
+    display: none;
+}
+#chart9 #SvgjsLine1144{
+    display: none;
+}
+#chart9 .apexcharts-zoomout-icon{
+    display: none;
+}
+#chart9 .apexcharts-zoom-icon{
+    display: none;
+}
+#chart9 .apexcharts-pan-icon{
+    display: none;
+}
+#chart9 .apexcharts-reset-icon{
+    display: none;
+}
+#chart9 .apexcharts-menu-icon{
+    display: none;
+}
+#chart9 #SvgjsRect1092, #SvgjsCircle1088, #SvgjsRect1093, #SvgjsCircle1090, #SvgjsTspan1042, #SvgjsTspan1045, #SvgjsTspan1048, #SvgjsTspan1051, #SvgjsTspan1054, #SvgjsTspan1057, #SvgjsText1059, #SvgjsTspan1063, #SvgjsLine1064, #SvgjsLine1021, #SvgjsLine1022, #SvgjsLine1023, #SvgjsLine1024, #SvgjsLine1025, #SvgjsLine1026, #SvgjsLine1027, #SvgjsLine1020, #SvgjsG1065{
+    display: none;
+}
+#chart9 path{
+    stroke:aqua;
+}
+#chart9 #SvgjsLine1029, #SvgjsLine1030, #SvgjsLine1031, #SvgjsLine1008, #SvgjsLine1021, #SvgjsLine1028, #SvgjsLine1033, #SvgjsLine1008, #SvgjsLine1032{
+    display: none;
+}

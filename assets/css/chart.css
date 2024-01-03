@@ -1,0 +1,94 @@
+#chart {
+  margin: 15px 50px 0 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  min-height: 100px!important;
+}
+#chart #apexcharts3hdmpo6c{
+    min-height: 100px!important;
+}
+#chart .apexcharts-tooltip.a pexcharts-theme-light{
+    background-color: transparent!important;
+}
+/*
+  Hides the labels between the first and last.
+  At the end is +3 because the real last child (.apexcharts-xaxis-label)
+  is an empty label, probably it is bug in Apexcharts.
+*/
+#chart .apexcharts-xaxis-texts-g .apexcharts-xaxis-label:nth-child(n+2):nth-last-child(n+3) {
+      display: none;
+}
+#chart .apexcharts-toolbar{
+    display: none;
+}
+#chart .apexcharts-yaxis{
+    display: none;
+}
+#chart #SvgjsG1056{
+    display: none;
+}
+#chart .apexcharts-xaxis{
+    display: none;
+}
+#chart .apexcharts-zoomin-icon{
+    display: none;
+}
+#chart #SvgjsLine1144{
+    display: none;
+}
+#chart .apexcharts-zoomout-icon{
+    display: none;
+}
+#chart .apexcharts-zoom-icon{
+    display: none;
+}
+#chart .apexcharts-pan-icon{
+    display: none;
+}
+#chart .apexcharts-reset-icon{
+    display: none;
+}
+#chart .apexcharts-menu-icon{
+    display: none;
+}
+#chart #SvgjsG1245{
+    display: none;
+}
+#chart #SvgjsG1356{
+    display: none;
+}
+/*
+  You can try this as well, doesn't work
+*/
+/* .apexcharts-xaxis-texts-g .apexcharts-xaxis-label:nth-child(n) {
+      display: none;
+}
+.apexcharts-xaxis-texts-g .apexcharts-xaxis-label:first-child {
+      display: inline;
+}
+.apexcharts-xaxis-texts-g .apexcharts-xaxis-label:last-child {
+      display: inline;
+} */
+#chart .apexcharts-grid-borders{
+    display: none;
+}
+#chart #SvgjsLine1047, #SvgjsLine1051, #SvgjsLine1065, #SvgjsLine1055, #SvgjsLine1055, #SvgjsG1042{
+    display: none;
+}
+#chart .apexcharts-yaxistooltip, .apexcharts-toolbar, .apexcharts-xaxistooltip{
+    display: none;
+}.apexcharts-tooltip-title{
+    display: none!important;
+}
+#chart path{
+    fill: aqua;
+    stroke:aqua
+}
+#chart #SvgjsLine1045, #SvgjsLine1046{
+    display: none!important;
+}
+#chart .apexcharts-tooltip{
+    display: none;
+    border: none !important;
+}

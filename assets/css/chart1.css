@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+#chart1 {
+  max-width: 760px;
+  margin: 35px auto;
+  opacity: 0.9;
+}
+#chart1 .apexcharts-xaxis{
+    display: none !important;
+}
+#chart1 .apexcharts-zoomin-icon{
+    display: none !important;
+}
+#chart1 #SvgjsLine1144{
+    display: none !important;
+}
+#chart1 .apexcharts-zoomout-icon{
+    display: none !important;
+}
+#chart1 .apexcharts-zoom-icon{
+    display: none !important;
+}
+#chart1 .apexcharts-pan-icon{
+    display: none !important;
+}
+#chart1 .apexcharts-reset-icon{
+    display: none !important;
+}
+#chart1 .apexcharts-menu-icon{
+    display: none !important;
+}
+#chart1 #SvgjsText1447, #SvgjsTspan1451, #SvgjsTspan1445, #SvgjsTspan2076, #SvgjsTspan1442, #SvgjsTspan1439{
+    color: white !important;
+    fill: white;
+}
+#chart1 #SvgjsText1241{
+    display: none !important;
+}
+
+#chart1 g:first-child path{
+    fill:rgba(255, 255, 255, 0.25);
+}
+#chart1 g:nth-child(2) path{
+    fill: rgba(60, 210, 165, 0.65);
+}
+#chart1 .apexcharts-legend-text{
+    color: white !important;
+}

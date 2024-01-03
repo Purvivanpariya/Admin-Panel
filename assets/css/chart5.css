@@ -1,0 +1,13 @@
+#chart5 {
+    margin: 0 auto;
+    position: absolute;
+    top: 20px;
+    left: 60%;
+}
+#chart5 path{ 
+  stroke: none !important;
+}
+#chart5 .apexcharts-legend-text, .apexcharts-legend-marker{
+  display: none !important;
+  color: transparent !important;
+}

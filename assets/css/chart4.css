@@ -1,0 +1,19 @@
+#chart4 {
+  max-width: 650px;
+  margin: 20px auto;
+  position: absolute;
+  top: 0;
+  left: 60%;
+}
+#chart4 #SvgjsG1375, #SvgjsG1157, #SvgjsText1171, #SvgjsText1184, #SvgjsText1197{
+    display: none !important;
+}
+#chart4 #SvgjsText1427{
+   display: none !important;
+}
+.apexcharts-datalabels{
+ display: none!important;
+} 
+#chart4  path {
+  stroke: none!important;
+}
